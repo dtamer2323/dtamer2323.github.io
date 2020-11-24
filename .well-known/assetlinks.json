@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dragon.tamer.learn",
+    "sha256_cert_fingerprints":
+    ["BC:FF:B7:5F:A6:58:9B:7F:E1:21:3C:6B:60:59:D1:32:F8:AE:61:DF:D3:97:19:1A:BD:9B:AC:92:F8:42:D4:CF"]
+  }
+}]
